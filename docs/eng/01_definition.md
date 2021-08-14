@@ -18,4 +18,4 @@ In this article we will therefore focus on the "Factory Method Pattern".
 > "The Factory Method Pattern defines an interface for creating an object, but lets subclasses decide which class to instantiate. 
 > Factory Method lets a class defer instantiation to subclasses."
 
-[next - a possible scenario &raquo;](???.md)
+[next - a possible scenario &raquo;](02_scenario.md)

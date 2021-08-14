@@ -41,4 +41,4 @@
     php main.php factory=1
     ```
 
-[successivo - References and useful links &raquo;](06_references.md)
+[next - References and useful links &raquo;](06_references.md)
