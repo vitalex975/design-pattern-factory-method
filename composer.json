@@ -1,0 +1,27 @@
+{
+    "name": "vitalex/factory-method-pattern",
+    "description": "Factory Method Pattern coding example",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alessandro Vitale",
+            "email": "vitalex975@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "autoload": {
+        "psr-4": {
+            "HeroApp\\": "HeroExample/src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
