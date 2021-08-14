@@ -39,4 +39,4 @@ interface CharacterFactoryInterface
 
 In the example code, after obtaining the character from the factory, the class it belongs to is simply printed, and the typical methods of the "Hero" class are then called, demonstrating that the whole process has been carried out correctly and has provided the waited result.
 
-[successivo - Execute the example code &raquo;](05_executeExample.md)
+[next - Execute the example code &raquo;](05_executeExample.md)
